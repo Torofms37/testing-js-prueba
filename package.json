@@ -1,0 +1,20 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/**",
+    "lint:fix": "eslint src/** --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.13.0"
+  }
+}
